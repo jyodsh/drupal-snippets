@@ -27,7 +27,3 @@ if(preg_match('/node\/(\d+)/', $path, $matches)) {
 $node = \Drupal\node\Entity\Node::load($matches[1]);
 }
 ```
-
-- [Hide WordPress Update Nag to All But Admins](#hide-wordpress-update-nag-to-all-but-admins)
-
-## Hide WordPress Update Nag to All But Admins
