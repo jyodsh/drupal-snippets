@@ -1,9 +1,10 @@
 # Usefull Drupal 8 Snippets.
  
+ You can refer [my blog](https://thakshashila.com/) for more detailed explanation
 
 ## [Token Replacement in Drupal](#token-replacement-in-drupal-8)
 
-## Load Drupal 8 node object from URL alias(#load-drupal-8-node-object-from-URL-alias)
+## [Load Drupal 8 node object from URL alias](#load-drupal-8-node-object-from-URL-alias)
 
 ## Token Replacement in Drupal
 ```php
