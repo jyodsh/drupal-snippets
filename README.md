@@ -1,10 +1,12 @@
 # Usefull Drupal 8 Snippets.
+
+This is a list of useful Drupal snippets and functions that I often reference to enhance or improve my sites.
  
  You can refer [my blog](https://thakshashila.com/) for more detailed explanation
 
-## [Token Replacement in Drupal](#token-replacement-in-drupal-8)
+- ### [Token Replacement in Drupal](#token-replacement-in-drupal-8)
 
-## [Load Drupal 8 node object from URL alias](#load-drupal-8-node-object-from-url-alias)
+- ### [Load Drupal 8 node object from URL alias](#load-drupal-8-node-object-from-url-alias)
 
 ## Token Replacement in Drupal
 ```php
@@ -26,4 +28,6 @@ $node = \Drupal\node\Entity\Node::load($matches[1]);
 }
 ```
 
+- [Hide WordPress Update Nag to All But Admins](#hide-wordpress-update-nag-to-all-but-admins)
 
+## Hide WordPress Update Nag to All But Admins
