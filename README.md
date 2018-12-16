@@ -1,4 +1,4 @@
-# Usefull Drupal 8 Snippets.
+# Useful Drupal 8 Snippets.
 
 This is a list of useful Drupal snippets and functions that I often reference to enhance or improve my sites.
  
